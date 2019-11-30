@@ -5,3 +5,4 @@
 >> mex calcCA.c
 >> mex countCell.c
 >> ca
+>> showCntCell
